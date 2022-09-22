@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KafkaConsumerProducer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "KAFKA_BOOTSTRAP": "localhost:9092"
+      }
+    }
+  }
+}
